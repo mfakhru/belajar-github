@@ -8,4 +8,4 @@ If you are interested in collaborating with me, please pull-request with the for
 The following is a list of accepted Collaborators:
 
 * Fakhrurrozi, [mfakhru.github.io](https://mfakhru.github.io/).
-* Collaborator-1, [LinkedIn](https://www.linkedin/in/mfakhrurrozis).
+* Collaborator-1, [LinkedIn](https://www.linkedin.com/in/mfakhrurrozis).
